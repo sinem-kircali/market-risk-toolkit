@@ -18,7 +18,21 @@ Somewhere in there I also took a Financial Markets and Institutions elective —
 
 ## Quick look
 
-Screenshots / sample output below.
+Portfolio overview — value over time, weights, and headline stats:
+
+![Portfolio overview](docs/screenshot_overview.png)
+
+VaR and Expected Shortfall at 95%/99%, three methods side by side:
+
+![VaR and Expected Shortfall](docs/screenshot_var_es.png)
+
+Stress testing a scenario, with the regime chart underneath it:
+
+![Stress testing](docs/screenshot_stress.png)
+
+Regime detection — calm vs. volatile days flagged on the price series, plus the transition matrix:
+
+![Regime detection](docs/screenshot_regimes.png)
 
 ## How it works
 
